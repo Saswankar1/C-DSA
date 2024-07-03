@@ -24,4 +24,4 @@ Your contributions to this repository are highly welcome! Follow the steps below
 ----------------------------------------------------------------------------------------------
 
 
-Thanks for contributing! Your efforts help make this resource better for everyone. 🚀
+Thanks for contributing in the repo! Your efforts help make this resource better for everyone. 🚀
