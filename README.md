@@ -1,4 +1,4 @@
-# C-DSA
+# C++-DSA
 
 DSA using C++
 
